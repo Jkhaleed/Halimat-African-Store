@@ -1,0 +1,46 @@
+[
+  {
+    "Product name": "Beans",
+    "Variant": [
+      {
+        "Name": "Honey Beans",
+        "Weight": "5kg",
+        "Price ($)": 45
+      },
+      {
+        "Name": "Drum Beans",
+        "Weight": "5kg",
+        "Price ($)": 40
+      },
+        {
+        "Name": "Honey Beans",
+        "Weight": "10kg",
+        "Price ($)": 85
+        }
+    ],
+    "Product Url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Beans.jpeg"
+  },
+    {
+        "Product name": "Rice",
+        "Variant": [
+      {
+        "Name": "Premium Parboiled Rice",
+        "Weight": "100lbs",
+        "Price ($)": 130,
+        "Product Url":
+      },
+      {
+        "Name": "Celic rice",
+        "Weight": "8kg",
+        "Price ($)": 24,
+        "Product Url":
+      },
+        {
+        "Name": "Gelda Gold Basmati Rice",
+        "Weight": "4.54kg",
+        "Price ($)": 20,
+        "Product Url":
+        }
+    ]
+    }
+]
