@@ -1,46 +1,461 @@
 [
   {
-    "Product name": "Beans",
-    "Variant": [
+    "product_name": "Beans",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Beans.jpeg",
+    "variants": [
       {
-        "Name": "Honey Beans",
-        "Weight": "5kg",
-        "Price ($)": 45
+        "name": "Honey Beans",
+        "weight": "5kg",
+        "price": 45
       },
       {
-        "Name": "Drum Beans",
-        "Weight": "5kg",
-        "Price ($)": 40
-      },
-        {
-        "Name": "Honey Beans",
-        "Weight": "10kg",
-        "Price ($)": 85
-        }
-    ],
-    "Product Url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Beans.jpeg"
-  },
-    {
-        "Product name": "Rice",
-        "Variant": [
-      {
-        "Name": "Premium Parboiled Rice",
-        "Weight": "100lbs",
-        "Price ($)": 130,
-        "Product Url":
+        "name": "Drum Beans",
+        "weight": "5kg",
+        "price": 40
       },
       {
-        "Name": "Celic rice",
-        "Weight": "8kg",
-        "Price ($)": 24,
-        "Product Url":
-      },
-        {
-        "Name": "Gelda Gold Basmati Rice",
-        "Weight": "4.54kg",
-        "Price ($)": 20,
-        "Product Url":
-        }
+        "name": "Honey Beans",
+        "weight": "10kg",
+        "price": 85
+      }
     ]
-    }
+  },
+  {
+    "product_name": "Rice",
+    "variants": [
+      {
+        "name": "Premium Parboiled Rice",
+        "weight": "100lbs",
+        "price": 130,
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Premium Parboiled Rice.jpg"
+      },
+      {
+        "name": "Clic Rice",
+        "weight": "8kg",
+        "price": 24,
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Clic Rice.jpg"
+      },
+      {
+        "name": "Gelda Gold Basmati Rice",
+        "weight": "4.54kg",
+        "price": 20,
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Gelda Gold Basmati Rice.jpeg"
+      }
+    ]
+  },
+  {
+    "product_name": "Garri",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Garri.jpeg",
+    "variants": [
+      {
+        "name": "White Garri",
+        "weight": "5lbs",
+        "price": 10
+      },
+      {
+        "name": "Garri",
+        "options": [
+          {
+            "weight": "5lbs",
+            "price": 8
+          },
+          {
+            "weight": "7lbs",
+            "price": 13
+          },
+          {
+            "weight": "10lbs",
+            "price": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Onion Chicken Indomie",
+    "price": 22,
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Noodles.jpeg"
+  },
+  {
+    "product_name": "Checkers Custard",
+    "variants": [
+      {
+        "name": "Vanilla",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Vanilla Checkers.jpeg",
+        "options": [
+          {
+            "weight": "1kg",
+            "price": 10
+          },
+          {
+            "weight": "2kg",
+            "price": 17
+          }
+        ]
+      },
+      {
+        "name": "Milk Custard",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Milk Checkers.jpeg",
+        "options": [
+          {
+            "weight": "1kg",
+            "price": 12
+          },
+          {
+            "weight": "2kg",
+            "price": 18
+          }
+        ]
+      },
+      {
+        "name": "Banana Custard",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Banana Checkers.jpeg",
+        "options": [
+          {
+            "weight": "1kg",
+            "price": 10
+          },
+          {
+            "weight": "2kg",
+            "price": 17
+          }
+        ]
+      },
+      {
+        "name": "Lady Custard powder",
+        "price": 15
+      }
+    ]
+  },
+  {
+    "product_name": "Poundo Yam Ola Ola",
+    "options": [
+      {
+        "weight": "4lbs",
+        "price": 26
+      },
+      {
+        "weight": "10lbs",
+        "price": 52
+      }
+    ]
+  },
+  {
+    "product_name": "Mama choice Fufu",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Mama choice Fufu.jpeg"
+  },
+  {
+    "product_name": "Elubo(Yam flour)",
+    "weight": "50lbs",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Elubo.jpeg"
+  },
+  {
+    "product_name": "Condensed Peak milk",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Condensed Peak milk.jpeg"
+  },
+  {
+    "product_name": "Beverages",
+    "variants": [
+      {
+        "name": "Nido",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Nido.jpeg"
+      },
+      {
+        "name": "Milo",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Milo.jpeg"
+      },
+      {
+        "name": "Bourvita",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Bourvita.jpeg"
+      },
+      {
+        "name": "Ginger Drink",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Ginger Drink.jpeg"
+      },
+      {
+        "name": "Organic fruit wine",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Organic fruit wine.jpeg"
+      },
+      {
+        "name": "Vita Malt",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Vita Malt.jpeg"
+      },
+      {
+        "name": "Moutain Dew",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Mountain Dew.jpeg"
+      },
+      {
+        "name": "Crush Drink",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Crush Drink.jpeg"
+      },
+      {
+        "name": "Canada Drink",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Canada Drink.jpeg"
+      }
+    ]
+  },
+  {
+    "product_name": "Tomato paste",
+    "variants": [
+      {
+        "name": "De Rica",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/DeRica.jpeg"
+      },
+      {
+        "name": "Gino",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Gino.jpeg"
+      },
+      {
+        "name": "Gino sachet",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Gino sachet.jpeg"
+      }
+    ]
+  },
+  {
+    "product_name": "Food Spices",
+    "variants": [
+      {
+        "name": "Thyme",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Thyme.jpeg"
+      },
+      {
+        "name": "Curry",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Curry.jpeg"
+      },
+      {
+        "name": "Jollof rice spice",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Jollof rice spice.jpeg"
+      },
+      {
+        "name": "Fried rice spice",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Fried rice spice.jpeg"
+      },
+      {
+        "name": "Goya Adobo",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Goya Adobo.jpeg"
+      },
+      {
+        "name": "Spicy pepper",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Spicy pepper.jpeg"
+      },
+      {
+        "name": "Knorr",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/knorr.jpeg"
+      },
+      {
+        "name": "Chicken flavour",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Chicken flavour.jpeg"
+      },
+      {
+        "name": "Bay leaf",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Bay leaf.jpeg"
+      }
+    ]
+  },
+  {
+    "product_name": "Oil",
+    "variants": [
+      {
+        "name": "Palm oil",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Palm oil.jpeg",
+        "options": [
+          {
+            "weight": "1lb"
+          },
+          {
+            "weight": "2lbs"
+          },
+          {
+            "weight": "4lbs"
+          }
+        ]
+      },
+      {
+        "name": "Canola oil",
+        "weight": "16L",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Canola oil.jpeg"
+      },
+      {
+        "name": "Saporito oil",
+        "options": [
+          {
+            "weight": "3L"
+          },
+          {
+            "weight": "5L"
+          },
+          {
+            "weight": "16L"
+          }
+        ],
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Saporito oil.jpeg"
+      },
+      {
+        "name": "Unico oil",
+        "weight": "3L",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Unico oil.jpeg"
+      }
+    ]
+  },
+  {
+    "product_name": "Sugar",
+    "weight": "2kg",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Sugar.jpeg"
+  },
+  {
+    "product_name": "Spagetti",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Spagetti.jpeg"
+  },
+  {
+    "product_name": "Corn beef",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Corn beef.jpeg"
+  },
+  {
+    "product_name": "Prawn cracker",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Prawn Crack.jpeg"
+  },
+  {
+    "product_name": "Spinach",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Spinach.jpeg"
+  },
+  {
+    "product_name": "Groundnut",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Groundnut.jpeg"
+  },
+  {
+    "product_name": "Cereal",
+    "variants": [
+      {
+        "name": "Golden morn",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Golden morn.jpeg"
+      },
+      {
+        "name": "Nasco Cornflakes",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Nasco Cornflakes.jpeg"
+      }
+    ]
+  },
+  {
+    "product_name": "Titus",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Titus.jpeg"
+  },
+  {
+    "product_name": "Plantain chips",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Plantain chips.jpeg"
+  },
+  {
+    "product_name": "Tom Tom",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Tom Tom.jpeg"
+  },
+  {
+    "product_name": "Crayfish",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Crayfish.jpeg"
+  },
+  {
+    "product_name": "Melon",
+    "options": [
+      "Grounded",
+      "Ungrounded"
+    ],
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Melon.jpeg"
+  },
+  {
+    "product_name": "Locust beans",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Locust beans.jpeg"
+  },
+  {
+    "product_name": "Hair products",
+    "variants": [
+      {
+        "name": "Damatol",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Damatol.jpeg"
+      },
+      {
+        "name": "Soulmate hair cream",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Soulmate hair cream.jpeg"
+      },
+      {
+        "name": "Dax hair cream",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Dax hair cream.jpeg"
+      },
+      {
+        "name": "Sulfate hair cream",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Sulfate hair cream.jpeg"
+      },
+      {
+        "name": "Blue Magic Conditioner Hair Dress",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Blue Magic Conditioner.jpeg"
+      },
+      {
+        "name": "Blue magic castor oil",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Blue magic castor oil.jpeg"
+      },
+      {
+        "name": "Crystal hair cream",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Crystal hair cream.jpeg"
+      },
+      {
+        "name": "Attachment hair",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Attachment.jpeg"
+      }
+    ]
+  },
+  {
+    "product_name": "Body products",
+    "variants": [
+      {
+        "name": "Caro white cream",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Caro white cream.jpeg"
+      },
+      {
+        "name": "Bar soap",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Bar soap.jpeg"
+      },
+      {
+        "name": "Dusting powder",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Dusting powder.jpeg"
+      },
+      {
+        "name": "Funbact A",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Funbact A.jpeg"
+      },
+      {
+        "name": "Epiderm cream",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Epiderm cream.jpeg"
+      },
+      {
+        "name": "Robb",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Robb.jpeg"
+      },
+      {
+        "name": "Ero Arike",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Ero Arike.jpeg"
+      },
+      {
+        "name": "Aboliki",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Aboliki.jpeg"
+      }
+    ]
+  },
+  {
+    "product_name": "Blade",
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Blade.jpeg"
+  },
+  {
+    "product_name": "Cooking materials",
+    "variants": [
+      {
+        "name": "Turning stick",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Turning stick.jpeg"
+      },
+      {
+        "name": "Calabash",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Calabash.jpeg"
+      },
+      {
+        "name": "Igbako",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Igbako.jpeg"
+      }
+    ]
+  }
 ]
