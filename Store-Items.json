@@ -236,7 +236,7 @@
       },
       {
         "name": "Spicy pepper",
-        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Spicy pepper.jpeg"
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Spicy pepper.jpg"
       },
       {
         "name": "Knorr",
@@ -271,12 +271,7 @@
         ]
       },
       {
-        "name": "Canola oil",
-        "weight": "16L",
-        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Canola oil.jpeg"
-      },
-      {
-        "name": "Saporito oil",
+        "name": "Saporito Canola & Vegetable oil",
         "options": [
           {
             "weight": "3L"
@@ -312,7 +307,7 @@
   },
   {
     "product_name": "Prawn cracker",
-    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Prawn Crack.jpeg"
+    "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Prawn Crack.jpg"
   },
   {
     "product_name": "Spinach",
@@ -371,6 +366,10 @@
         "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Damatol.jpeg"
       },
       {
+        "name": "Sulfur-8-plus",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Sulfur8.jpg"
+      },
+      {
         "name": "Soulmate hair cream",
         "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Soulmate hair cream.jpeg"
       },
@@ -379,24 +378,20 @@
         "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Dax hair cream.jpeg"
       },
       {
-        "name": "Sulfate hair cream",
-        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Sulfate hair cream.jpeg"
-      },
-      {
-        "name": "Blue Magic Conditioner Hair Dress",
-        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Blue Magic Conditioner.jpeg"
-      },
-      {
-        "name": "Blue magic castor oil",
-        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Blue magic castor oil.jpeg"
-      },
-      {
         "name": "Crystal hair cream",
         "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Crystal hair cream.jpeg"
       },
       {
         "name": "Attachment hair",
         "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Attachment.jpeg"
+      },
+      {
+        "name": "Brazilian wool",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/wool.jpg"
+      },
+      {
+        "name": "Virgin Hair Fertilizer",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Virgin Hair.jpeg"
       }
     ]
   },
@@ -408,8 +403,20 @@
         "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Caro white cream.jpeg"
       },
       {
-        "name": "Bar soap",
-        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Bar soap.jpeg"
+        "name": "Caro white soap",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Caro white soap.jpg"
+      },
+      {
+        "name": "Skineal",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Skineal.jpg"
+      },
+      {
+        "name": "Dudu Osun",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Dudu.jpg"
+      },
+      {
+        "name": "Shower sponge",
+        "product_url": "file:///C:/Users/khale/PycharmProjects/Halimat-African-Store/images/Sponge.jpg"
       },
       {
         "name": "Dusting powder",
